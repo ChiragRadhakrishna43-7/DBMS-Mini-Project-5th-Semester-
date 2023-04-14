@@ -1,8 +1,8 @@
 # DBMS-Mini-Project-5th-Semester-
-Mini project regarding database management as part of the curriculum prescribed by VTU.
+<p align="justify">Mini project regarding database management as part of the curriculum prescribed by VTU.</p>
 
-The application developed allows users to book tickets for IPL matches. 
-The front-end has been developed using NetBeans IDE. The database has been implemented using MySQL Database. A tracker has been implemented in the application to allow users easy access to all options available and for smooth recording of their match and bill details.
+<p align="justify">The application developed allows users to book tickets for IPL matches. 
+The front-end has been developed using NetBeans IDE. The database has been implemented using MySQL Database. A tracker has been implemented in the application to allow users easy access to all options available and for smooth recording of their match and bill details.</p>
 
 The programming language used to develop the front-end is Java.
 
